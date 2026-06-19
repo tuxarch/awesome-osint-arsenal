@@ -169,7 +169,7 @@ detect_distro
 bootstrap_basics
 
 echo
-say "Installing: 👤 Username & Social Media OSINT (33 tools)"
+say "Installing: 👤 Username & Social Media OSINT (34 tools)"
 install_git https://github.com/ArthurHeitmann/arctic_shift.git arctic_shift       # Arctic Shift
 install_pip blackbird-osint                                                       # Blackbird
 install_git https://github.com/misiektoja/github_monitor.git github_monitor       # github_monitor
@@ -178,6 +178,7 @@ install_go github.com/ibnaleem/gosearch@latest gosearch                         
 install_pip holehe                                                                # Holehe
 install_git https://github.com/misiektoja/instagram_monitor.git instagram_monitor # instagram_monitor
 install_pip instaloader                                                           # Instaloader
+install_pip insto                                                                 # insto
 install_go github.com/tdh8316/investigo@latest investigo                          # Investigo
 install_git https://github.com/l4rm4nd/LinkedInDumper.git LinkedInDumper          # LinkedInDumper
 install_pip maigret                                                               # Maigret
