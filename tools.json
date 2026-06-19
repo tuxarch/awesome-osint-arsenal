@@ -7493,6 +7493,32 @@
     "archived": false
   },
   {
+    "id": "insta-dl",
+    "name": "insta-dl",
+    "description": "Async Instagram downloader for profiles, posts, reels, stories, highlights, hashtags, and comments",
+    "category": "username-social",
+    "url": "https://github.com/subzeroid/insta-dl",
+    "install": {
+      "method": "pip",
+      "kali": "`pip install instagram-dl`",
+      "raw": "`pip install instagram-dl`"
+    },
+    "tags": [
+      "username-social",
+      "curated-addition"
+    ],
+    "source_versions": [
+      "v3.3-expansion"
+    ],
+    "aliases": [
+      "instagram-dl"
+    ],
+    "sections_seen": [
+      "Social Media Monitoring"
+    ],
+    "archived": false
+  },
+  {
     "id": "instagram_monitor",
     "name": "instagram_monitor",
     "description": "Real-time tracking of Instagram users with email alerts and CSV logs",
