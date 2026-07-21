@@ -82,6 +82,7 @@ bash termux.sh            # 📱 Android (Termux subset, no sudo needed)
 > **How you can help in 30 seconds:**
 > - ⭐ **Star** the repo (more stars = more contributors find it)
 > - 🐛 **Spotted a dead link?** Open an issue, takes 1 minute
+> - 🧩 **Adding a tool?** Skim [CONTRIBUTING.md](CONTRIBUTING.md) first — keeps your PR from getting closed
 > - ☕ [**Buy me a coffee**](https://www.buymeacoffee.com/rawfilejson) so weekends keep going to this
 > - 📢 **Share it** — tweet, Discord, wherever the security crowd hangs out
 >
