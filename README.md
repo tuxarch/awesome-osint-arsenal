@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Tools](https://img.shields.io/badge/Tools-752%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
+[![Tools](https://img.shields.io/badge/Tools-753%2B-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Categories](https://img.shields.io/badge/Categories-50-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
@@ -18,7 +18,7 @@
 
 <br/>
 
-> **752+ tools · 50 categories · Multi-distro installers · Georgian OSINT · Termux support**
+> **753+ tools · 50 categories · Multi-distro installers · Georgian OSINT · Termux support**
 >
 > *The most comprehensive OSINT and security toolkit on the internet — every tool with installation instructions or a verified link.*
 
@@ -75,7 +75,7 @@ bash termux.sh            # 📱 Android (Termux subset, no sudo needed)
 > [!IMPORTANT]
 > ## 🙏 A note before you fork
 >
-> This repo has **752 tools across 50 categories**. Keeping that current — links, install commands, new tools every week — is a *lot* for one person.
+> This repo has **753 tools across 50 categories**. Keeping that current — links, install commands, new tools every week — is a *lot* for one person.
 >
 > **If nobody helps, parts of this list will go stale.** That's just real talk.
 >
@@ -312,7 +312,7 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 
 | 🛠️ Total Tools | 💻 CLI Tools | 📁 GitHub Repos | 🌐 Online Platforms | 🤖 AI Tools |
 |:-:|:-:|:-:|:-:|:-:|
-| **752+** | **166+** | **117+** | **461+** | **25+** |
+| **753+** | **167+** | **117+** | **461+** | **25+** |
 
 | 🕶️ Dark Web | 🇬🇪 Georgian OSINT | 💥 Breach Engines | ⚔️ Red Team | 🛡️ Blue Team |
 |:-:|:-:|:-:|:-:|:-:|
@@ -655,6 +655,7 @@ exiftool /path/to/images/
 | **Osintgram** | Instagram OSINT tool | `git clone https://github.com/Datalux/Osintgram` |
 | **Instaloader** | Instagram data downloader | `pip install instaloader` |
 | **insta-dl** | Async Instagram downloader with HikerAPI and optional aiograpi backends | `pip install instagram-dl` |
+| **insto** | Interactive Instagram OSINT CLI with REPL, snapshots, diffs, and Maltego exports | `pip install insto` |
 | **Twint** | Twitter OSINT (no API needed) | `pip install twint` |
 | **snscrape** | Social media scraper (Twitter, Reddit, etc.) | `pip install snscrape` |
 | **Toutatis** | Instagram OSINT by phone/email | `pip install toutatis` |
@@ -1979,6 +1980,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 | **[Imgur](https://imgur.com)** | Image hosting — meme tracing and reverse search | [imgur.com](https://imgur.com) |
 | **insta-dl** | Async Instagram downloader for profiles, posts, reels, stories, highlights, hashtags, and comments | `pip3 install instagram-dl` |
 | **instagram_monitor** | Real-time tracking of Instagram users with email alerts and CSV logs | `git clone https://github.com/misiektoja/instagram_monitor.git` |
+| **insto** | Interactive Instagram OSINT CLI with snapshots, diffs, and Maltego-ready exports | `pip3 install insto` |
 | **[Intelligence X (intelx.io)](https://intelx.io)** | Selective archive search — emails, leaks, paste sites, dark-web | [intelx.io](https://intelx.io) |
 | **Interlace** | Easily turn single-threaded CLI apps into multi-threaded jobs | `git clone https://github.com/codingo/Interlace.git` |
 | **[Joe Sandbox](https://www.joesandbox.com)** | Deep automated malware analysis (free tier) | [joesandbox.com](https://www.joesandbox.com) |

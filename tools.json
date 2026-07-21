@@ -7591,6 +7591,30 @@
     "archived": false
   },
   {
+    "id": "insto",
+    "name": "insto",
+    "description": "Interactive Instagram OSINT CLI with REPL, one-shot mode, snapshots, diffs, and Maltego-ready exports",
+    "category": "username-social",
+    "url": "https://github.com/subzeroid/insto",
+    "install": {
+      "method": "pip",
+      "kali": "`pip install insto`",
+      "raw": "`pip install insto`"
+    },
+    "tags": [
+      "username-social",
+      "curated-addition"
+    ],
+    "source_versions": [
+      "v3.3-expansion"
+    ],
+    "aliases": [],
+    "sections_seen": [
+      "Social Media Monitoring"
+    ],
+    "archived": false
+  },
+  {
     "id": "intel-471",
     "name": "Intel 471",
     "description": "Cybercrime intelligence platform",
